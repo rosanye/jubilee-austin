@@ -32,7 +32,7 @@ h1, h2 {
 /* HEADER */
 header {
     height: 800px;
-    background: url("/img/hero.png");
+    background: url("../img/hero.png");
     background-size: cover;
 }
 
@@ -180,14 +180,3 @@ header h2 span {
     font-size: 32px;
     padding-right: 48px;
 }
-
-
-
-
-
-
-
-
-
-
-
